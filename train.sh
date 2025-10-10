@@ -4,4 +4,4 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 OMP_NUM_THREADS=4 torchrun \
 oasis/train.py \
 exp_id=main_small \
 model=small \
-data=davis
+data=base
