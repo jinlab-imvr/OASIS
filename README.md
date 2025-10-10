@@ -10,7 +10,8 @@ Source code for ICCV-25 paper '[Structure Matters: Revisiting Boundary Refinemen
 ## To-Dos
 
 * [ ] Checkpoints & Pre-computed results
-* [x] Initialization
+* [X] Training & Inference Code release
+* [X] Initialization
 
 ## Dependencies
 

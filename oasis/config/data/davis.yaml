@@ -1,0 +1,17 @@
+defaults:
+  - datasets
+
+pre_training:
+  datasets:
+    - FSS
+    - DUTS_TR
+    - DUTS_TE
+    - ECSSD
+    - BIG
+    - HRSOD
+
+main_training:
+  datasets:
+    - DAVIS
+  num_iterations: 10250
+  lr_schedule_steps: [8200, 9450]
