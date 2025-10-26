@@ -1,6 +1,24 @@
 # OASIS
 
-Source code for ICCV-25 paper '[Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation](https://arxiv.org/abs/2507.18944)'
+Source code for ICCV-25 paper '[Structure Matters: Revisiting Boundary Refinement in Video Object Segmentation](https://openaccess.thecvf.com/content/ICCV2025/html/Qin_Structure_Matters_Revisiting_Boundary_Refinement_in_Video_Object_Segmentation_ICCV_2025_paper.html)'
+
+## Surgical Demo
+
+### Performance
+
+EndoVis-18 - SEQ 15 - Tissue Segmentation (J&F / J / F) - Zero-Shot
+
+| Obj |                   Ours |              Baseline |
+| --: | ---------------------: | --------------------: |
+| 011 | **36.5 / 32.7 / 40.2** | 33.2 / 29.8 / 36.6 |
+| 012 | **68.0 / 89.3 / 46.7** | 64.2 / 86.9 / 41.5 |
+| 017 | **82.3 / 90.4 / 74.1** | 81.2 / 89.6 / 72.8 |
+
+### Visualizations
+
+<p align="center">
+  <img src="demo/oasis-endovis-demo.png" width="700" />
+</p>
 
 ## Updates
 
