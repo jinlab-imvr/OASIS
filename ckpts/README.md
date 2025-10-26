@@ -14,7 +14,7 @@ output_dir: null # defaults to run_dir; specify this to override
 
 ### Training
 
-For training, we take advantages of cutie image-pretrained ckpts, could get it here [image-pretrained](https://github.com/hkchengrex/Cutie/releases/download/v1.0). Special thanks to them.
+For training, we take advantages of cutie image-pretrained ckpts, could get it here [image-pretrained](https://github.com/hkchengrex/Cutie/releases/download/v1.0). Special thanks to them. Some ckpts can also get from us as in [Link](https://drive.google.com/drive/folders/1nUEDMaa8KXgjWHz5-w4GlDAHfCCeEs8T?usp=sharing)
 
 ```python
 # oasis/config/train_config.yaml

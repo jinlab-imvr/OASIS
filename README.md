@@ -16,6 +16,8 @@ EndoVis-18 - SEQ 15 - Tissue Segmentation (J&F / J / F) - Zero-Shot
 
 ### Visualizations
 
+From top to bottom: Images | Baseline | Ours
+
 <p align="center">
   <img src="demo/oasis-endovis-demo.png" width="700" />
 </p>
@@ -28,7 +30,7 @@ EndoVis-18 - SEQ 15 - Tissue Segmentation (J&F / J / F) - Zero-Shot
 
 ## To-Dos
 
-* [ ] More checkpoints and results on surgical videos coming in...
+* [X] More checkpoints and results on surgical videos coming in...
 * [X] Checkpoints & Pre-computed results...
 * [X] Training & Inference Code release
 * [X] Initialization
