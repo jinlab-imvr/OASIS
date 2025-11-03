@@ -31,14 +31,7 @@ Figures are arranged in a 2×2 grid: top-left Image, bottom-left GT, top-right B
 
 #### Video
 
-<video src="demo/oasis-endovis-s15-fullvid.mp4"
-       controls
-       loop
-       muted
-       playsinline
-       width="720"
-       poster="demo/oasis-endovis-s15-poster.png">
-</video>
+<https://github.com/user-attachments/assets/a63f5201-e4fb-4adb-beeb-264e2ae62413>
 
 ## Updates
 
