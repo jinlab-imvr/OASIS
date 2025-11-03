@@ -6,6 +6,13 @@ Source code for ICCV-25 paper '[Structure Matters: Revisiting Boundary Refinemen
 
 ### Performance
 
+EndoVis-18 - All Test Videos - Inst. w/ Tis. Segmentation (J&F / J / F) - Zero-Shot
+
+| Methods                |  J&F |    J |    F |
+| :---------------- | ---: | ---: | ---: |
+| Ours | **74.6** | **76.1** | **73.1** |
+| Baseline             | 73.3 | 75.1 | 71.6 |
+
 EndoVis-18 - SEQ 15 - Tissue Segmentation (J&F / J / F) - Zero-Shot
 
 | Obj |                   Ours |              Baseline |
@@ -16,11 +23,22 @@ EndoVis-18 - SEQ 15 - Tissue Segmentation (J&F / J / F) - Zero-Shot
 
 ### Visualizations
 
-From top to bottom: Images | Baseline | Ours
+Figures are arranged in a 2×2 grid: top-left Image, bottom-left GT, top-right Baseline, and bottom-right Ours.
 
 <p align="center">
-  <img src="demo/oasis-endovis-demo.png" width="700" />
+  <img src="demo/oasis-endovis-demo.png" width="720" />
 </p>
+
+#### Video
+
+<video src="demo/oasis-endovis-s15-fullvid.mp4"
+       controls
+       loop
+       muted
+       playsinline
+       width="720"
+       poster="demo/oasis-endovis-s15-poster.png">
+</video>
 
 ## Updates
 
