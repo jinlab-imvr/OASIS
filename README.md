@@ -31,7 +31,7 @@ Figures are arranged in a 2×2 grid: top-left Image, bottom-left GT, top-right B
 
 #### Video
 
-<https://github.com/user-attachments/assets/a63f5201-e4fb-4adb-beeb-264e2ae62413>
+<https://github.com/user-attachments/assets/7b388b10-c486-4ec8-99ea-e5512fdd8a7b>
 
 ## Updates
 
